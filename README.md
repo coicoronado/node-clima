@@ -6,7 +6,7 @@ Recuerda instalar paquetes
 npm i
 ```
 
-##Ejemplo:
+## Ejemplo:
 
 ```
 node app -d "{nombre_de_la_ciudad}"
